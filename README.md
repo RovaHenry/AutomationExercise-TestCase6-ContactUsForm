@@ -17,7 +17,8 @@ Key Steps:
 5. Accept the confirmation alert pop-up.
 6. Verify the success message: "Success! Your details have been submitted successfully."
    
-Tools & Technologies: Automation Framework: Selenium WebDriver
+Tools & Technologies: 
+Automation Framework: Selenium WebDriver
 
 Programming Language: JavaScript
 

@@ -11,10 +11,7 @@ Key Steps:
 
 1. Navigate to the Contact Us page.
 2. Enter the required details:
-    Name
-    Email
-    Subject
-    Message
+    Name, Email, Subject, Message
 3. Upload a file (optional).
 4. Click the Submit button.
 5. Accept the confirmation alert pop-up.

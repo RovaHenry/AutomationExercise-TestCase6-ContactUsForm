@@ -18,6 +18,7 @@ Key Steps:
 6. Verify the success message: "Success! Your details have been submitted successfully."
    
 Tools & Technologies: 
+
 Automation Framework: Selenium WebDriver
 
 Programming Language: JavaScript
